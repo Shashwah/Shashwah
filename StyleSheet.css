@@ -1,0 +1,35 @@
+#menu_bar a{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: aquamarine;
+    border: 2px solid;
+    border-width: 2px;
+    border-color: darkturquoise;
+    border-radius: 10px;
+}
+
+#menu_image {
+    width: 64px;
+}
+
+#main_text{
+    border: 2px solid;
+    border-width: 2px;
+    border-color: darkturquoise;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+
+* {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: dodgerblue;
+}
+
+a:link, visited, active{
+    background-color: black;
+    border-color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
